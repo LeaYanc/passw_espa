@@ -1,6 +1,4 @@
-Password Complexity Españolizer
-
-
+# Password Complexity Españolizer
 
 
 Remembering randomly generated passwords is too complex for most people, unless you use a password manager. 
