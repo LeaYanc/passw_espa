@@ -1,5 +1,6 @@
 # Password Complexity Españolizer
 
+:![Spanish ñ](laenie.jpg)
 
 Remembering randomly generated passwords is too complex for most people, unless you use a password manager. 
 Most people like to use passwords that are easy to remember. 
@@ -8,5 +9,5 @@ To slow down this type of attack, I created a small script that replaces some le
 Users can trust passwords they can easily remember, but hardened with Spanish special characters.
 
 
-
-
+## Spanish special characters
+:![Spanish characters](SpaChar.png)
