@@ -1,4 +1,8 @@
 Password Complexity Españolizer
+
+
+
+
 Remembering randomly generated passwords is too complex for most people, unless you use a password manager. 
 Most people like to use passwords that are easy to remember. 
 But brute force attacks tend to use traditional ASCII characters first. 
