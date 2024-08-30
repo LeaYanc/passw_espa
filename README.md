@@ -18,7 +18,7 @@ In this way, users can use passwords they can easily remember, but hardened with
 
 
 ## Proof of concept
-With the Bitwarden password strenght testing tool (https://bitwarden.com/password-strength/)
+With the [Bitwarden](https://bitwarden.com/password-strength/) password strenght testing tool 
 
 I tested some weak passwords that have been hardened with the script:
 ![Spanish ñ](/images/Prompt.png)
